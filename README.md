@@ -1,3 +1,21 @@
-# S-J+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Cuenta Regresiva</title>
+    <style>
+        body {
+            background-color: green;
+            text-align: center;
+        }
+        #countdown {
+            font-size: 24px;
+            color: white;
+        }
+    </style>
+</head>
+<body>
+    <p id="countdown"></p>
 
-htd
+    <script src="script.js"></script>
+</body>
+</html>
